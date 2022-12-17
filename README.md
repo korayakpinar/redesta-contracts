@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Redesta
+Redesta is a funding platform that uses a peer-by-peer review system that is innovative and provides financial incentives to the funders, while ensuring that the funds are used for the right purposes. At the same time, Redesta was written in a hackathon organized by Akbank and ReFi Turkey within 48 hours.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
